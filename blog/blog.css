@@ -1,0 +1,14 @@
+.date{
+	color: #3498db;
+}
+body{
+	font-family: 'Source Sans Pro', sans-serif;
+	padding: 20px;
+	border: 20px solid #bdc3c7;
+	width: 700px;
+	margin: 0 auto;
+}
+.first{
+	border-left: 5px solid #bdc3c7; 
+	padding-left: 10px;
+}
